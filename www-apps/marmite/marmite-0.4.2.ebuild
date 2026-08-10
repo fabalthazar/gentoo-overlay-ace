@@ -140,7 +140,7 @@ CRATES="
 	arrayvec@0.7.8
 	as-slice@0.2.1
 	ascii@1.1.0
-	atom_syndication@0.12.9
+	atom_syndication@0.12.10
 	autocfg@1.5.1
 	av-scenechange@0.14.1
 	av1-grain@0.2.5
@@ -165,8 +165,8 @@ CRATES="
 	chrono@0.4.45
 	chunked_transfer@1.5.0
 	cipher@0.5.2
-	clap@4.6.4
-	clap_builder@4.6.2
+	clap@4.6.5
+	clap_builder@4.6.5
 	clap_derive@4.6.4
 	clap_lex@1.1.0
 	cmov@0.5.4
@@ -254,10 +254,10 @@ CRATES="
 	heck@0.5.0
 	hmac@0.13.0
 	hotwatch@0.5.0
-	http@1.4.2
+	http@1.5.0
 	httparse@1.10.1
 	httpdate@1.0.3
-	hybrid-array@0.4.13
+	hybrid-array@0.4.14
 	iana-time-zone-haiku@0.1.2
 	iana-time-zone@0.1.65
 	icu_collections@2.2.0
@@ -390,7 +390,7 @@ CRATES="
 	rustix@1.1.4
 	rustls-pki-types@1.15.1
 	rustls-webpki@0.103.13
-	rustls@0.23.42
+	rustls@0.23.43
 	rustversion@1.0.23
 	ryu@1.0.23
 	same-file@1.0.6
